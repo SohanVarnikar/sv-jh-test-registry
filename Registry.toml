@@ -1,4 +1,4 @@
-name = "Test-registry"
+name = "sv-jh-test-registry"
 uuid = "7f90ec56-bc97-4215-b665-67ac21878043"
 repo = "ssh://repository-host/dir1/gitrepo.git"
 
